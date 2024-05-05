@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  - Entusiasta no desenvolvimento mobile utilizando Dart & Flutter.
-  - Possuo um diferencial na parte web através de CSS / HTML & JavaScript
+  - Entusiasta no desenvolvimento mobile utilizando Dart & Flutter. <br>
+  - Possuo um diferencial na parte web através de CSS / HTML & JavaScript <br>
   - Cursando Ciências da Computação
 </p>
 
